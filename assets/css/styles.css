@@ -332,11 +332,11 @@ img {
   width: 90px;
   height: 90px;
   transition: 0.3s;
-  border-radius: 50%;
+  border-radius: 60%;
   position: absolute;
-  animation: button 3s infinite;
-  border: 2px solid hsl(158, 98%, 43%);
-  box-shadow: 0 0 12px hsl(158, 98%, 43%);
+  animation: button 2s infinite;
+  border: 4px solid hsl(158, 98%, 43%);
+  box-shadow: 0 0 12px hsl(158, 98%, 1%);
 }
 
 .home .shape__big,
@@ -382,6 +382,9 @@ img {
 /*=============== ABOUT ===============*/
 .about__container {
   row-gap: 6rem;
+  display:flex;
+  padding-bottom: 0px;
+  
 }
 
 .about__group {
@@ -522,6 +525,7 @@ img {
 .features {
   overflow: hidden;
   position: relative;
+  padding-bottom: 8rem;
 }
 
 .features__container {
@@ -587,7 +591,8 @@ img {
 }
 /*=============== FEATURED ===============*/
 .featured__container {
-  padding-top: 1rem;
+  margin-top: 4rem;
+  padding-bottom: 2rem;
 }
 
 .featured__filters {
