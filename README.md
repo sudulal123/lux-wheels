@@ -1,6 +1,6 @@
 # lux-wheels
 
-Sports car showcase
+A website for showcasing sports car with a sleek and responsive UI.
 
 ## Screenshot
 ![luxwheels_eyecatch](https://github.com/sudulal123/lux-wheels/assets/86375908/faf8dbe9-6ef6-4028-8ffc-1a327a23e017)
