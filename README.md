@@ -2,8 +2,6 @@
 
 Sports car showcase
 
-## Live preview: https://luxwheels.netlify.app/#
-
 ## Screenshot
 ![luxwheels_eyecatch](https://github.com/sudulal123/lux-wheels/assets/86375908/faf8dbe9-6ef6-4028-8ffc-1a327a23e017)
 ![luxwheels_1](https://github.com/sudulal123/lux-wheels/assets/86375908/8c2315a3-fa4b-4669-9496-724331d9760a)
