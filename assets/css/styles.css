@@ -427,6 +427,11 @@ img {
 }
 
 /*=============== POPULAR ===============*/
+.popular {
+  padding-top: 8rem;
+  margin-bottom: 12rem;
+}
+
 .popular__container {
   padding: 1rem;
 }
@@ -454,7 +459,7 @@ img {
 }
 
 .popular__title {
-  margin-bottom: .25rem;
+  margin-bottom: 0.25rem;
   font-size: var(--h2-font-size);
 }
 
@@ -590,6 +595,10 @@ img {
   transform: rotate(-22deg);
 }
 /*=============== FEATURED ===============*/
+.featured {
+  padding-top: 8rem;
+  margin-bottom: 12rem;
+}
 .featured__container {
   margin-top: 4rem;
   padding-bottom: 2rem;
@@ -599,7 +608,7 @@ img {
   display: flex;
   column-gap: 1rem;
   align-items: center;
-  margin-bottom: 3.5rem;
+  margin-bottom: 2.5rem;
   justify-content: center;
 }
 
@@ -637,7 +646,7 @@ img {
 }
 
 .featured__content {
-  row-gap: 2.5rem;
+  row-gap: 1.5rem;
   justify-content: center;
   grid-template-columns: 228px;
 }
