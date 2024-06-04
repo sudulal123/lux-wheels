@@ -22,10 +22,10 @@ $PROJECT_ROOT
 └── public
 ```
 
-## Build Instructions
+## Run Instructions
 
 ```bash
 # No dependencies  necessary
-it is purely made with vanilla JavaScript with no other dependencies. 
-One can directly run Live server from their IDE
+one can directly run Live server from their IDE.
+It is purely made with JavaScript with no other dependencies.
 ```
