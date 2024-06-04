@@ -382,9 +382,8 @@ img {
 /*=============== ABOUT ===============*/
 .about__container {
   row-gap: 6rem;
-  display:flex;
+  display: flex;
   padding-bottom: 0px;
-  
 }
 
 .about__group {
@@ -471,19 +470,19 @@ img {
 
 .popular__img {
   width: 160px;
-  transition: .3s;
-  margin: .75rem 0 1.25rem 1.5rem;
+  transition: 0.3s;
+  margin: 0.75rem 0 1.25rem 1.5rem;
 }
 
 .popular__data {
   display: grid;
-  gap: .5rem 1.25rem;
+  gap: 0.5rem 1.25rem;
   margin-bottom: 2rem;
   grid-template-columns: repeat(2, max-content);
 }
 
 .popular__data-group {
-  column-gap: .5rem;
+  column-gap: 0.5rem;
   align-items: center;
   display: inline-flex;
   color: var(--white-color);
@@ -905,20 +904,27 @@ img {
 .show-scroll {
   bottom: 3rem;
 }
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) {
   .container {
     margin-left: 1rem;
     margin-right: 1rem;
   }
 
-  .home__car {
-    column-gap: 2rem;
+  .home__container {
+    justify-content: center;
   }
 
   .about__card {
     width: 150px;
+  }
+
+  .features__map {
+    top: 8rem;
+    width: 550px;
+    justify-content: center;
   }
 
   .offer__container {
@@ -929,8 +935,14 @@ img {
     width: 340px;
   }
 
+  .featured__item {
+    width: 45px;
+    height: 45px;
+  }
+
   .logos__container {
     gap: 2.5rem;
+    grid-template-columns: repeat(3, max-content);
   }
 }
 
