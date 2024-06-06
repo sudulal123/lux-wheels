@@ -8,7 +8,7 @@
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
   --white-color: #fff;
-  --body-color: hsl(219, 4%, 4%);
+  --body-color: hsl(247, 82%, 4%);
   --text-color: hsl(219, 8%, 75%);
   --title-color: hsl(219, 8%, 95%);
   --first-color: hsl(219, 69%, 56%);
@@ -324,7 +324,7 @@ img {
   color: var(--white-color);
   font-weight: var(--font-medium);
   font-size: var(--small-font-size);
-  border: 2px solid hsl(158, 89%, 30%);
+  border: 2px solid hsl(80, 25%, 80%);
 }
 
 .home__button::before {
@@ -335,7 +335,7 @@ img {
   border-radius: 60%;
   position: absolute;
   animation: button 2s infinite;
-  border: 4px solid hsl(158, 98%, 43%);
+  border: 4px solid hsl(278, 10%, 67%);
   box-shadow: 0 0 12px hsl(158, 98%, 1%);
 }
 
@@ -357,10 +357,10 @@ img {
 /* Button animate */
 @keyframes button {
   0% {
-    box-shadow: 0 0 12px hsl(158, 98%, 43%);
+    box-shadow: 0 0 12px hsl(159, 84%, 70%);
   }
   50% {
-    box-shadow: 0 0 24px hsl(158, 98%, 43%);
+    box-shadow: 0 0 24px hsl(193, 100%, 65%);
   }
 }
 
