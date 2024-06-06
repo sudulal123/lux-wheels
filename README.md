@@ -25,5 +25,5 @@ $PROJECT_ROOT
 
 ```bash
 # No dependencies  necessary
-one can directly run Live server from their IDE.
+one can directly run Live server from IDE.
 ```
