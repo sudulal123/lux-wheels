@@ -24,6 +24,10 @@ $PROJECT_ROOT
 ## Run Instructions
 
 ```bash
-# No dependencies necessary
-one can directly run Live server from IDE.
+# Clone the Repository
+git clone https://github.com/sudulal123/lux-wheels.git
+
+# Run the project locally in your browser
+click Live server from IDE.
 ```
+
