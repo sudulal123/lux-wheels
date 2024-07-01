@@ -63,7 +63,8 @@ run Live server from your IDE.
 
 
 ## <a name="to-do"> To-do </a>
-- [ ] To Fix: page reload
-- [ ] To implement: Nav item reposition
-- [ ] To implement: Extend the car collections
-- [ ] To implement: Use Car API instead of hard-coded cars
+
+- [ ] Page reload
+- [ ] Nav item reposition
+- [ ] Extend the car collections
+- [ ] Use Car API instead of hard-coded cars
