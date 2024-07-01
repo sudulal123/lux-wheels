@@ -34,7 +34,7 @@ A website for showcasing sports car with a sleek and responsive UI.
 
 ```bash
 $PROJECT_ROOT
-│   # Static files for images & ico
+│   # static files for images & ico
 ├── assets
 │   # css with swiper-bundle
 ├── css
