@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a>
-      <img src="https://github.com/sudulal123/lux-wheels/assets/86375908/faf8dbe9-6ef6-4028-8ffc-1a327a23e017" alt="Project Banner">
+      <img src="https://github.com/sudulal123/lux-wheels/assets/86375908/76f4fb38-e359-442e-8d1d-5ba29d5cd3b6" alt="Project Banner">
     </a>
   <br />
   <h3 align="center">Lux wheels</h3>
