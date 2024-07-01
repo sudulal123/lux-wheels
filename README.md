@@ -55,6 +55,8 @@ run Live server from your IDE.
 
 ## <a name="features"> Features </a>
 
+**Card slide**: It provides manual sliding car-cards in `popular` section.
+
 **Hove effects**: It offers subtle movement while hovering over the car.
 
 **Reload animations**: It features a car reloading animation as you navigate to the next page.
