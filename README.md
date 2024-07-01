@@ -13,7 +13,6 @@
 2. [Tech Stacks](#tech-stacks)
 3. [Quick Start](#quick-start)
 4. [Features](#features)
-5. [To-do](#to-do)
 
 
 ## <a name="introduction"> Introduction </a>
@@ -61,10 +60,11 @@ run Live server from your IDE.
 
 **Reload animations**: It features a car reloading animation as you navigate to the next page.
 
-
+<!-- 
+5. [To-do](#to-do)
 ## <a name="to-do"> To-do </a>
-
 - [ ] Page reload
 - [ ] Nav item reposition
 - [ ] Extend the car collections
 - [ ] Use Car API instead of hard-coded cars
+-->
