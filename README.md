@@ -1,13 +1,36 @@
-# lux-wheels
+<div align="center">
+  <br />
+    <a>
+      <img src="https://github.com/sudulal123/lux-wheels/assets/86375908/faf8dbe9-6ef6-4028-8ffc-1a327a23e017" alt="Project Banner">
+    </a>
+  <br />
+  <h3 align="center">Lux wheels</h3>
+</div>
+
+## <a name="table">Table of Contents</a>
+
+1. [Introduction](#introduction)
+2. [Tech Stacks](#tech-stacks)
+3. [Quick Start](#quick-start)
+4. [Features](#features)
+5. [To-do](#to-do)
+
+
+## <a name="introduction"> Introduction </a>
 
 A website for showcasing sports car with a sleek and responsive UI.
 
-## Screenshot
-![luxwheels_eyecatch](https://github.com/sudulal123/lux-wheels/assets/86375908/4f6207f6-9123-4fcc-bf61-6011fe91a46b)
-![luxwheels_1](https://github.com/sudulal123/lux-wheels/assets/86375908/2dd74ef3-a05b-4350-bd84-c0bfdf4713aa)
-![luxwheels_2](https://github.com/sudulal123/lux-wheels/assets/86375908/303f12e8-8d13-4973-837b-d88c975e40f3)
 
-## Project structure
+## <a name="tech-stacks"> Tech Stack </a>
+
+- CSS
+- HTML
+- JavaScript
+
+
+## <a name="quick-start"> Quick Start </a>
+
+**Project structure**
 
 ```bash
 $PROJECT_ROOT
@@ -21,13 +44,24 @@ $PROJECT_ROOT
 └── public
 ```
 
-## Run Instructions
-
 ```bash
 # Clone the Repository
 git clone https://github.com/sudulal123/lux-wheels.git
 
-# Run the project locally in your browser
-click Live server from IDE.
+# No dependencies necessary
+run Live server from your IDE.
 ```
 
+
+## <a name="features"> Features </a>
+
+**Hove effects**: It offers subtle movement while hovering over the car.
+
+**Reload animations**: It features a car reloading animation as you navigate to the next page.
+
+
+## <a name="to-do"> To-do </a>
+- [ ] To Fix: page reload.
+- [ ] To implement: Nav item reposition.
+- [ ] To implement: Extend the car collections.
+- [ ] To implement: Use Car API instead of hard-coded cars.
